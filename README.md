@@ -1,15 +1,15 @@
 
 ## Humankind.art Clone
 
-# Introduction \
+# Introduction 
 This is a simple HTML/CSS website that has been cloned from the humankind.art website. The purpose of this project is to practice HTML and CSS skills by recreating the layout and design of an existing website.
 
-# Credits \
+# Credits 
 The original website design and content was created by the team at humankind.art.
 
 This cloned website was created by Samarth, based on the original design by humankind.art.
 
-License \
+# License 
 This project is licensed under the MIT license.
 
 
